@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athenahk
-- 👀 I’m interested in Windows Reverse Engineer
+- 👀 I’m  Windows Reverse Engineer
 - 🌱 I’m currently learning Windows Kernel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me VX:cf70kg
