@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @athenahk
 - 👀 I’m  Windows Reverse Engineer
 - 🌱 I’m currently learning Windows Kernel & VT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me VX:cf70kg
+- 📫 How to reach me WeChat:Socarates
 
 <!---
 athenahk/athenahk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
